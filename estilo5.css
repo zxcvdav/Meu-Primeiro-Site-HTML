@@ -1,0 +1,47 @@
+.container-fluid#conf{
+	background-color:white;
+	
+}
+.footer{
+	width:100%;
+	margin-top:5px;
+	background-color:black;
+	clear:both;
+	position:absolute;
+	text-align:center;
+	color:black;
+	height:125px;
+	
+}
+#video{
+	width:90%;
+	margin:0 auto;
+}
+.navbar-inverse{
+	background-color:black;
+	border-color:black;
+	color:white;
+}
+.navbar-inverse>a:hover{
+	background-color:white;
+	border-color:white;
+	color:black;
+}
+.navbar-inverse .navbar-nav>a:hover{
+	background-color:#000000;
+	border-color:#000000;
+	color:#DCDCDC;
+}
+body{
+	background-image:url(i26.jpg);
+	-webkit-background-size:cover;
+	color:white;
+
+}
+.jumbotron{
+	background-color:#F8F8FF;
+	color:black;
+}
+.well{
+	color:black;
+}
